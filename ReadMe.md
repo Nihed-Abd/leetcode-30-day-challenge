@@ -12,7 +12,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | Day | Problem | Difficulty | Solution |
 |-----|---------|------------|----------|
 | 1 | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | [Day1-divideString.js](./Day1-divideString.js) |
-
+| 2 | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/submissions/1673690796/?envType=daily-question&envId=2025-06-23) | Easy | [Day2-Sumofk-MirrorNumbers.js](./Day2-Sumofk-MirrorNumbers.js) |
 ---
 
 ## 🔗 Connect with Me
