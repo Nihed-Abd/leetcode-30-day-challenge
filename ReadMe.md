@@ -16,6 +16,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 3 | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/?envType=daily-question&envId=2025-06-24) | Medium | [Day3-FindAllK-DistantIndicesInAnArray.js](./Day3-FindAllK-DistantIndicesInAnArray.js) |
 | 4 | [2040.Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/?envType=daily-question&envId=2025-06-25) | Medium | [Day4-KthSmallestProductofTwoSortedArrays.js](./Day4-KthSmallestProductofTwoSortedArrays.js) |
 | 5 | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | Medium | [longest-binary-subsequence-less-than-or-equal-to-k.js](./longest-binary-subsequence-less-than-or-equal-to-k.js) |
+| 6 | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/?envType=daily-question&envId=2025-06-27) | Hard | [Day6-LongestSubsequenceRepeatedkTimes.js](./Day6-LongestSubsequenceRepeatedkTimes.js) |
 ---
 
 ## 🔗 Connect with Me
