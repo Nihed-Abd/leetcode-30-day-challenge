@@ -18,6 +18,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 5 | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | Medium | [longest-binary-subsequence-less-than-or-equal-to-k.js](./longest-binary-subsequence-less-than-or-equal-to-k.js) |
 | 6 | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/?envType=daily-question&envId=2025-06-27) | Hard | [Day6-LongestSubsequenceRepeatedkTimes.js](./Day6-LongestSubsequenceRepeatedkTimes.js) |
 | 7 | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28) | Easy | [Day7-FindSubsequenceofLengthKWiththeLargestSum.js](./Day7-FindSubsequenceofLengthKWiththeLargestSum.js) |
+| 8 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29) | Medium | [Day7-FindSubsequenceofLengthKWiththeLargestSum.js](./Day7-FindSubsequenceofLengthKWiththeLargestSum.js) |
 ---
 
 ## 🔗 Connect with Me
